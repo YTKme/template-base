@@ -23,7 +23,9 @@
   ],
   "editor.insertSpaces": true,
   "[markdown]": {
-    "editor.wordWrap": "off"
+    "editor.tabSize": 2,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 72,
   },
   "[json]": {
     "editor.tabSize": 2,
